@@ -1,0 +1,27 @@
+Topic 1 (substance use)
+alcohol
+history
+denies
+drug
+tobacco
+
+Topic 2 (demographic and family information)
+married
+female
+white
+male
+children
+
+Topic 3 (substance use frequency)
+day
+drinks
+pack
+cigarettes
+home
+
+Topic 4 (medical history)
+excited
+history
+disease
+hypertension
+diabetes
