@@ -1,0 +1,8 @@
+Topic 1 (substance use) 
+Example note: Includes tobacco use as well as alcohol use.
+Topic 2 (demographic and family information)  
+Example note: He is not married, but has two children.
+Topic 3 (substance use frequency) 
+Example note: She smoked 1 to 2 packs a day from age 18 to 54.
+Topic 4 (medical history) 
+Example note: The patient is a 68-year-old Caucasian male with past medical history of diabetes mellitus.
